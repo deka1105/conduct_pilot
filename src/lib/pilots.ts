@@ -24,7 +24,7 @@ export const pilots: Pilot[] = [
     title: "Keep/revert/retire adjudicator",
     company: "conduct",
     useCase: "UC-5",
-    demo: "847 custom objects triaged on a 24-month window \\u2014 146 retire, 237 revert to standard, 390 must migrate, and 74 are handed back with the one question that would settle each, taking 2,268 of 6,187 person-days off the carry.",
+    demo: "847 custom objects triaged on a 24-month window — 146 retire, 237 revert to standard, 390 must migrate, and 74 are handed back with the one question that would settle each, taking 2,268 of 6,187 person-days off the carry.",
     built: "2026-10-25",
     tier: "eval",
     load: () => import("@companies/conduct/conduct-keep-revert-retire/Pilot"),

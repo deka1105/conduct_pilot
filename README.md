@@ -4,7 +4,7 @@
 
 ### Keep/revert/retire adjudicator
 
-847 custom objects triaged on a 24-month window \u2014 146 retire, 237 revert to standard, 390 must migrate, and 74 are handed back with the one question that would settle each, taking 2,268 of 6,187 person-days off the carry.
+847 custom objects triaged on a 24-month window — 146 retire, 237 revert to standard, 390 must migrate, and 74 are handed back with the one question that would settle each, taking 2,268 of 6,187 person-days off the carry.
 
 `companies/conduct/conduct-keep-revert-retire/`
 
